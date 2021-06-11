@@ -1,0 +1,8 @@
+SENTENCIAS SQL                                    QUERYSETS
+
+select *                                        results = Participante.objects.all()
+from participantes
+
+----------------------------------------------------------------------------------------
+
+select count()
